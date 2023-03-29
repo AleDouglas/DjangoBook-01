@@ -7,6 +7,6 @@ Introdução ao Docker, ferramenta utilizada para produção do projeto.
 ## Chapter 02
 Introdução ao PostgreSQL , Banco de Dados a ser utilizado no projeto.
 
-## Chapter 03
+## Chapter 03 - Bookstory Project
 
 Basicamente corresponde ao projeto de uma Livraria Online, nele está os Capítulos 03 até o Capítulo 18 do livro mencionado.
